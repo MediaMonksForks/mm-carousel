@@ -1,0 +1,11 @@
+{
+  "name": "mm-carousel",
+  "version": "1.0.2",
+  "description": "A React Native Carousel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert F. O'Connor",
+  "license": "MIT"
+}

@@ -3,12 +3,12 @@
 
 This is a React native carousel component which uses react-native-reanimated.
 
-##Installation
+## Installation
 ```
 yarn add mm-carousel react-native-reanimated react-native-gesture-handler
 ```
 
-##Usage
+## Usage
 ```js
 const snapPoints = useMemo(
     () => data.map((_, index) => ({x: index * -screenWidth})),

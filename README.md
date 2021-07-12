@@ -1,5 +1,5 @@
 ![banner](/banner.png)
-[![npm version](https://badge.fury.io/js/%40mm-carousel.svg)](https://badge.fury.io/js/%40mm-carousel)
+[![npm version](https://badge.fury.io/js/mm-carousel.svg)](https://badge.fury.io/js/mm-carousel)
 
 This is a React native carousel component which uses react-native-reanimated.
 
